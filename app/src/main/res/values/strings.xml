@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Broadcast&amp;Services</string>
+    <string name="title_broadcast_receiver">Broadcast Receiver</string>
+    <string name="title_service">Services</string>
+    <string name="title_service_start">Start Alarm Service</string>
+    <string name="title_service_stop">Stop Alarm</string>
+    <string name="title_service_repeat">Stop Alarm at 10:30</string>
+    <string name="msg_chanelId">ForegroundServiceChannel</string>
+    <string name="msg_receive_text">Receiver will Call after every 5 minutes. </string>
+    <string name="msg_alarm_cacel">Alarm Canceled</string>
+    <string name="msg_alarm_set">Alarm Set</string>
+    <string name="msg_receiver_called">Receiver called..</string>
+</resources>
